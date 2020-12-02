@@ -1,2 +1,2 @@
-/other/*  https://sub-test.netlify.app/index.html  200
+/other/*  https://api.example.com/:splat  200
 /*    /index.html  200
