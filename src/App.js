@@ -48,7 +48,7 @@ const App = () =>
           Test
         </Link>
         <br />
-        <Link to="/sub">
+        <Link to="/other">
           Other
         </Link>
         <Switch>
